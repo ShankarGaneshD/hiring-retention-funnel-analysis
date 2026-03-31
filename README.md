@@ -36,22 +36,22 @@ Companies often struggle to understand why employees leave and how hiring decisi
 ## 📈 Key Visualizations
 
 ### 🔹 Attrition vs Overtime
-![Overtime](Overtime graph.png)
+![Overtime](overtime.png)
 
 ---
 
 ### 🔹 Attrition vs Work-Life Balance
-![WorkLifeBalance](Work-life balance graph.png)
+![WorkLifeBalance](worklife.png)
 
 ---
 
 ### 🔹 Attrition vs Salary
-![Salary](Salary graph.png)
+![Salary](salary.png)
 
 ---
 
 ### 🔹 Attrition vs Job Satisfaction
-![JobSatisfaction](Job satisfaction graph.png)
+![JobSatisfaction](jobsatisfaction.png)
 
 ---
 
