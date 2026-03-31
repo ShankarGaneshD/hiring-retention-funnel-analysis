@@ -35,6 +35,9 @@ Companies often struggle to understand why employees leave and how hiring decisi
 
 ## 📈 Key Visualizations
 
+### 🔹 Funnel 
+![Funnel](funnel.png)
+
 ### 🔹 Attrition vs Overtime
 ![Overtime](overtime.png)
 
